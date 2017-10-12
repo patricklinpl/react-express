@@ -1,1 +1,1 @@
-# lfs-mass-mailer
+# React on Express.js with Babel Boilerplate
