@@ -11,7 +11,7 @@ npm install
 ### React-Dev
 
 ```sh
-npm start-react
+npm run start-react
 ```
 
 ### Production
