@@ -2,7 +2,7 @@
   "name": "react-express",
   "version": "0.1.0",
   "private": true,
-  "description": "Template Express server serving create-react-app",
+  "description": "Express server serving create-react-app",
   "author": "Patrick Lin <paatricklinn@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
