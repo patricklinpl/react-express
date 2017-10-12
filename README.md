@@ -17,6 +17,6 @@ npm start-react
 ### Production
 
 ```sh
-npm build-react
+npm run build-react
 npm run start
 ```
