@@ -15,7 +15,7 @@
     "start": "node dist/index.js",
     "build": "npm run clean && mkdir -p dist && babel server -s -D -d dist",
     "start-react": "react-scripts start",
-    "build-react": "react-scripts build && mv build public",
+    "build-react": "rm -rf public/build && react-scripts build && mv build public",
     "dev": "nodemon src/index.js --exec \"node -r dotenv/config -r babel-register\"",
     "clean": "rimraf dist",
     "test-react": "react-scripts test --env=jsdom",
